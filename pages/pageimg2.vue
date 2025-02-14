@@ -24,7 +24,7 @@
                             Next
                         </button>
                     </NuxtLink>
-                    <NuxtLink to="/" class="mt-20 flex justify-center">
+                    <NuxtLink to="/pageimg1" class="mt-20 flex justify-center">
                         <button
                             class="px-5 py-2 bg-blue-600 text-white text-sm rounded-md hover:bg-blue-700 transition">
                             Back
